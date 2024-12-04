@@ -1,0 +1,5 @@
+com\boostmytool\model\Supplier.class
+com\boostmytool\CrudProjectApplication.class
+com\boostmytool\controllers\SuppliersController.class
+com\boostmytool\model\SupplierDto.class
+com\boostmytool\services\SuppliersRepository.class

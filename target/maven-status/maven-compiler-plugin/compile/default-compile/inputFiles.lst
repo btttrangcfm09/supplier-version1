@@ -1,5 +1,5 @@
-D:\OOP_project_Thay_Hau\CRUDexample\src\main\java\com\boostmytool\controllers\ProductsController.java
-D:\OOP_project_Thay_Hau\CRUDexample\src\main\java\com\boostmytool\CrudProjectApplication.java
-D:\OOP_project_Thay_Hau\CRUDexample\src\main\java\com\boostmytool\model\Product.java
-D:\OOP_project_Thay_Hau\CRUDexample\src\main\java\com\boostmytool\model\ProductDto.java
-D:\OOP_project_Thay_Hau\CRUDexample\src\main\java\com\boostmytool\services\ProductsRepository.java
+D:\supplier\supplier-version1\src\main\java\com\boostmytool\controllers\SuppliersController.java
+D:\supplier\supplier-version1\src\main\java\com\boostmytool\CrudProjectApplication.java
+D:\supplier\supplier-version1\src\main\java\com\boostmytool\model\Supplier.java
+D:\supplier\supplier-version1\src\main\java\com\boostmytool\model\SupplierDto.java
+D:\supplier\supplier-version1\src\main\java\com\boostmytool\services\SuppliersRepository.java
